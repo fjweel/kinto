@@ -6,12 +6,12 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "c95ef1d4-f3ac-4586-96e9-234a37dda068"
+                        "id": "e5f41b77-3bd2-49d8-ba3f-232273f88ab9"
                     }
                 ]
             },
             "streamSettings": {
-                "network": "ws"
+                "network": "mov"
             }
         }
     ],
